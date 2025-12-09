@@ -1,23 +1,56 @@
 # 👋 Hi, I'm Haitam Lfakir
 
+![Profile Views](https://komarev.com/ghpvc/?username=Haitamlfakir&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Haitamlfakir?style=flat&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Haitamlfakir?style=flat&color=yellow)
+
+---
+
 ## 🧑‍💻 Who am I?
-I'm a passionate **mobile app developer** from Morocco with experience in **Flutter** and **React Native**.  
+I'm a passionate **mobile app developer** from Morocco with experience in **Flutter** and **Swift**.  
 I enjoy building complete, real-world applications — especially e-commerce platforms — and exploring AI tools and modern tech.
 
+---
+
 ## 🚀 What am I currently working on?
-- Improving and scaling my **full e-commerce mobile app** (client app, admin app & delivery app)   
+- Improving and scaling my **full e-commerce mobile app** (client, admin & delivery apps)  
+- Studying **Artificial Intelligence** at Ibn Tofail University  
 - Learning advanced concepts in Flutter, state management & backend integration  
 - Exploring React JS and modern frontend tools
 
+---
+
 ## 🛠️ Tools & Technologies I Use
-- **Frontend / Mobile:** Flutter, Swift, React JS  
-- **Backend:** PHP (REST API), Firebase  
-- **State Management:** GetX  , Bloc, Provider
-- **Database / Cloud:** Firebase Firestore, Realtime Database  
-- **Other tools:** Git & GitHub, VS Code, Android Studio, Postman
+
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
 
 ## 📫 How to reach me?
-- **Email:** haytamlfakir@gmail.com
+- **Email:** your-email-here  
 - **GitHub:** https://github.com/Haitamlfakir  
-- **LinkedIn:** https://linkedin.com/in/haitam-lfakir 
-- **Portfolio / Website:** haitamlfakir.com
+- **LinkedIn:** your-linkedin-here  
+- **Portfolio / Website:** haitamlfakir.com  
+
+---
+
+If you want, I can:
+⭐ Add a GitHub stats section  
+⭐ Add animation (snake graph)  
+⭐ Add project showcases  
+
+Just tell me!
