@@ -43,14 +43,6 @@ I enjoy building complete, real-world applications — especially e-commerce pla
 ## 📫 How to reach me?
 - **Email:** your-email-here  
 - **GitHub:** https://github.com/Haitamlfakir  
-- **LinkedIn:** your-linkedin-here  
+- **LinkedIn:** https://linkedin.com/in/haitam-lfakir
 - **Portfolio / Website:** haitamlfakir.com  
 
----
-
-If you want, I can:
-⭐ Add a GitHub stats section  
-⭐ Add animation (snake graph)  
-⭐ Add project showcases  
-
-Just tell me!
