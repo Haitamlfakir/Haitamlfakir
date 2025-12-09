@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Haitam Lfakir
 
-<!--
-**Haitamlfakir/Haitamlfakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Who am I?
+I'm a passionate **mobile app developer** from Morocco with experience in **Flutter** and **React Native**.  
+I enjoy building complete, real-world applications — especially e-commerce platforms — and exploring AI tools and modern tech.
 
-Here are some ideas to get you started:
+## 🚀 What am I currently working on?
+- Improving and scaling my **full e-commerce mobile app** (client app, admin app & delivery app)   
+- Learning advanced concepts in Flutter, state management & backend integration  
+- Exploring React JS and modern frontend tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies I Use
+- **Frontend / Mobile:** Flutter, Swift, React JS  
+- **Backend:** PHP (REST API), Firebase  
+- **State Management:** GetX  , Bloc, Provider
+- **Database / Cloud:** Firebase Firestore, Realtime Database  
+- **Other tools:** Git & GitHub, VS Code, Android Studio, Postman
+
+## 📫 How to reach me?
+- **Email:** haytamlfakir@gmail.com
+- **GitHub:** https://github.com/Haitamlfakir  
+- **LinkedIn:** https://linkedin.com/in/haitam-lfakir 
+- **Portfolio / Website:** haitamlfakir.com
