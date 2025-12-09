@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Haitam Lfakir
 
-![Profile Views](https://komarev.com/ghpvc/?username=Haitamlfakir&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Haitamlfakir?style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Haitamlfakir?style=flat&color=yellow)
-
 ---
 
 ## 🧑‍💻 Who am I?
