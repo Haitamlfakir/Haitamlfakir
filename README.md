@@ -40,5 +40,5 @@ I enjoy building complete, real-world applications — especially e-commerce pla
 - **Email:** your-email-here  
 - **GitHub:** https://github.com/Haitamlfakir  
 - **LinkedIn:** https://linkedin.com/in/haitam-lfakir
-- **Portfolio / Website:** haitamlfakir.com  
+- **Portfolio / Website:** https://www.haitamlfakir.com  
 
