@@ -10,7 +10,7 @@ I enjoy building complete, real-world applications — especially e-commerce pla
 
 ## 🚀 What am I currently working on?
 - Improving and scaling my **full e-commerce mobile app** (client, admin & delivery apps)  
-- Studying **Artificial Intelligence** at Ibn Tofail University  
+- Studying **Artificial Intelligence** at Ibn Tofail University for 1 year and now studying at OFPPT fullstack developement
 - Learning advanced concepts in Flutter, state management & backend integration  
 - Exploring React JS and modern frontend tools
 
@@ -37,7 +37,7 @@ I enjoy building complete, real-world applications — especially e-commerce pla
 ---
 
 ## 📫 How to reach me?
-- **Email:** your-email-here  
+- **Email:** haytamlfakir@gmail.com  
 - **GitHub:** https://github.com/Haitamlfakir  
 - **LinkedIn:** https://linkedin.com/in/haitam-lfakir
 - **Portfolio / Website:** https://www.haitamlfakir.com  
